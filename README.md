@@ -26,7 +26,7 @@ It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bang
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
 </p>
-<p align="center">
+<p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin47&layout=compact">
 </p>
 
