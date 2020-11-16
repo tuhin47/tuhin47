@@ -1,13 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome geek, Wonder to see you here!!!</h1>
 
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> 
+It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bangladesh.
+
+
 <p align="center"> 
   <strong>Visitors</strong> <br>
   <img src="https://profile-counter.glitch.me/tuhin47/count.svg" />
 </p>
-
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> 
-It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bangladesh.
-
 <p align="center"> 
   <strong>Find me on </strong> <br>
   <a href="https://www.linkedin.com/in/tuhintowhidul" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
