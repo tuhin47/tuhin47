@@ -35,7 +35,7 @@ It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bang
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin47&layout=compact">
 </p>
 <p align="center">
-    <img align="right" width="470" src="https://github-readme-stats.vercel.app/api/wakatime?username=tuhin47&layout=compact">
+    <img align="right" width="460" src="https://github-readme-stats.vercel.app/api/wakatime?username=tuhin47&layout=compact">
 </p>
 
 
