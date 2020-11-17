@@ -10,7 +10,7 @@ It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bang
 </p>
 <p align="left">⚡️<strong>StackOverflow</strong> <br>
 <a  href="https://stackoverflow.com/users/7499069/tuhin47">
-  <img align="center" src="https://stackoverflow.com/users/flair/7499069.png?theme=dark" />
+  <img align="center" alt="stackoverflow" src="https://stackoverflow.com/users/flair/7499069.png?theme=dark" />
 </a>
 </p>
 <p align="center">🚀 <strong>Things I play with</strong>🚀 </p><p align="center">
@@ -23,7 +23,7 @@ It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bang
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
