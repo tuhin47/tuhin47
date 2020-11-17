@@ -1,17 +1,19 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome geek, Wonder to see you here!!!</h1>
 
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> 
+Hi ,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> 
 It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bangladesh.
-<p align="right"><strong>Find me on</strong></p>
-  <a href="https://www.linkedin.com/in/tuhintowhidul" target="_blank"><img align="right" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<p align="left">⚡️ <strong>Visitors</strong></p>
+<p align="center"><strong>Find me on</strong><br>
+  <a href="https://www.linkedin.com/in/tuhintowhidul" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+<p align="center">⚡️<strong>Visitors</strong><br>
 <img src="https://profile-counter.glitch.me/tuhin47/count.svg" />
-<p align="right">⚡️ <strong>StackOverflow</strong></p>
-<a href="https://stackoverflow.com/users/7499069/tuhin47">
-  <img align="right" src="https://stackoverflow.com/users/flair/7499069.png?theme=dark" />
+</p>
+<p align="center">⚡️<strong>StackOverflow</strong> <br>
+<a  href="https://stackoverflow.com/users/7499069/tuhin47">
+  <img align="center" src="https://stackoverflow.com/users/flair/7499069.png?theme=dark" />
 </a>
-<p>🚀 <strong>Tools</strong></p>
-<p align="left">
+</p>
+<p align="center">🚀 <strong>Tools</strong></p><p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
