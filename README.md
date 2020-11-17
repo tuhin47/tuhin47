@@ -2,17 +2,15 @@
 
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> 
 It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bangladesh.
-
-<h2>Visitors</h2>
+<p align="right"><strong>Find me on</strong></p>
+  <a href="https://www.linkedin.com/in/tuhintowhidul" target="_blank"><img align="right" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="left">⚡️ <strong>Visitors</strong></p>
 <img src="https://profile-counter.glitch.me/tuhin47/count.svg" />
- <h2>Find me on</h2>
-  <a href="https://www.linkedin.com/in/tuhintowhidul" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<h2>⚡️ StackOverflow</h2>
+<p align="right">⚡️ <strong>StackOverflow</strong></p>
 <a href="https://stackoverflow.com/users/7499069/tuhin47">
-  <img  src="https://stackoverflow.com/users/flair/7499069.png?theme=dark" />
+  <img align="right" src="https://stackoverflow.com/users/flair/7499069.png?theme=dark" />
 </a>
-<h2>🚀 Some Tools I Use</h2>
+<p>🚀 <strong>Tools</strong></p>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="25" height="25" />
@@ -26,7 +24,7 @@ It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bang
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
 </p>
-<p align="left">
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin47&layout=compact">
 </p>
 
