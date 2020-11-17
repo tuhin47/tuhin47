@@ -5,10 +5,10 @@ It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bang
 <p align="left"><strong>Find me on</strong><br>
   <a href="https://www.linkedin.com/in/tuhintowhidul" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-<p align="right">⚡️<strong>Visitors</strong><br>
+<p align="right">⚡️<strong>Total Hits</strong>⚡️<br>
 <img src="https://profile-counter.glitch.me/tuhin47/count.svg" />
 </p>
-<p align="left">⚡️<strong>StackOverflow</strong> <br>
+<p align="left">⚡️<strong>StackOverflow</strong>⚡️ <br>
 <a  href="https://stackoverflow.com/users/7499069/tuhin47">
   <img align="center" alt="stackoverflow" src="https://stackoverflow.com/users/flair/7499069.png?theme=dark" />
 </a>
