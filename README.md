@@ -4,6 +4,8 @@ Hi ,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bangladesh.
 <p align="left"><strong>Find me on</strong><br>
   <a href="https://www.linkedin.com/in/tuhintowhidul" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tuhintowhidul9@gmail.com" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/gmail-%FBBC04.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tuhin47.netlify.app/" target="_blank"><img align="center" alt="portfolio" src="https://img.shields.io/badge/portfolio-gray.svg?&style=for-the-badge&logoColor=white" /></a>
 </p>
 <p align="right">⚡️<strong>Total Hits</strong>⚡️<br>
 <img src="https://profile-counter.glitch.me/tuhin47/count.svg" />
