@@ -33,7 +33,7 @@ It's _Md. Towhidul Islam **Tuhin**_ I'm a fullstack software developer from Bang
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="25" height="25" />
 </p>
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin47&layout=compact">
+    <img align="left" src="https://grabify.link/YFUI4W">
 </p>
 
 
